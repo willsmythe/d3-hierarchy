@@ -1,5 +1,7 @@
 # d3-hierarchy
 
+[![Build Status](https://dev.azure.com/d3/d3/_apis/build/status/d3.d3-hierarchy)](https://dev.azure.com/d3/d3/_build/definition?definitionId=11)
+
 Many datasets are intrinsically hierarchical. Consider [geographic entities](https://www.census.gov/geo/reference/hierarchy.html), such as census blocks, census tracts, counties and states; the command structure of businesses and governments; file systems and software packages. And even non-hierarchical data may be arranged empirically into a hierarchy, as with [*k*-means clustering](https://en.wikipedia.org/wiki/K-means_clustering) or [phylogenetic trees](https://bl.ocks.org/mbostock/c034d66572fd6bd6815a).
 
 This module implements several popular techniques for visualizing hierarchical data:
